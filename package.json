@@ -12,7 +12,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.25"
+    "vue": "^3.5.25",
+    "vue-router": "^4.4.5",
+    "pinia": "^2.2.6",
+    "axios": "^1.7.7",
+    "element-plus": "^2.8.8",
+    "echarts": "^5.5.2",
+    "@element-plus/icons-vue": "^2.3.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.2",
